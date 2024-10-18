@@ -334,7 +334,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: right
       - type: FeaturedItem
         title: Feature Item Three
         tagline: This is the tagline
